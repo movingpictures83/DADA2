@@ -1,0 +1,2 @@
+Prefix plugins/DADA2/example/
+Plugin DADA2 inputfile parameters.txt outputfile ASVs

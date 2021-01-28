@@ -1,0 +1,3 @@
+FASTQ	Fastq2
+DB	silva_nr_v132_train_set.fa.gz
+species	silva_species_assignment_v132.fa.gz
